@@ -1,11 +1,11 @@
-#Women's Financial Empowerment App
+# Women's Financial Empowerment App
 
-##Project Overview
+## Project Overview
 
 Financial independence is a crucial aspect of women's empowerment, yet many women lack access to the necessary financial education and tools to manage their finances effectively. The Women’s Financial Empowerment App is designed to bridge this gap by providing an intuitive platform that offers financial education, budgeting tools, investment tracking, and personalized financial planning resources.
 Financial literacy is essential for women as it enables them to make informed decisions about savings, investments, and expenditures. Many women face barriers such as lack of knowledge, limited access to financial resources, and societal expectations that impact their financial well-being. By equipping women with the right tools and knowledge, this app fosters financial independence, helping them achieve short-term and long-term financial goals.
 
-##Challenges Women Face in Financial Decision-Making:
+## Challenges Women Face in Financial Decision-Making:
 
 •	Lack of Awareness: Many women are unaware of investment options such as mutual funds, SIPs, and tax-saving instruments.
 
@@ -17,7 +17,7 @@ Financial literacy is essential for women as it enables them to make informed de
 
 •	Lack of Personalized Financial Guidance: No easy access to AI-driven recommendations for investments, savings, and retirement planning.
 
-#Solution Proposed
+# Solution Proposed
 
 To provide a comprehensive and engaging financial solution, the app is designed with seven key modules, each focusing on different aspects of financial empowerment.
 
